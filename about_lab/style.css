@@ -1,10 +1,47 @@
+@charset "utf-8";
+
 body{
 
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-body {
-    background-image: url('C:\Users\shelb\OneDrive\Pictures\Wallpaper.png');
+/* body {
+    background-image: url('Wallpaper.png');
     background-size: cover; 
     background-repeat: no-repeat; 
+} */
+
+
+
+html{
+    background-color: rgb(137, 57, 157);
+}
+
+li a[href="https://github.com/W0491348"] {
+    position: relative; /* Enable positioning */
+    right: 30px; /* Move the <li> 20 pixels to the right */
+    top: 10px; /* Move the <li> 10 pixels down */
+}
+li a[href="https://icanhas.cheezburger.com/"] {
+    position: relative; /* Enable positioning */
+    right: 20px; /* Move the <li> 20 pixels to the right */
+    top: 10px; /* Move the <li> 10 pixels down */
+}
+
+li a[href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"] {
+    position: relative; /* Enable positioning */
+    right: 10px; /* Move the <li> 20 pixels to the right */
+    top: 10px; /* Move the <li> 10 pixels down */
+}
+
+main {
+    text-align: center;
+}
+
+header {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
 }
