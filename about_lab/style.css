@@ -5,24 +5,23 @@ body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-/* body {
-    background-image: url('Wallpaper.png');
+body{
+    
+}
+
+body {
+    background-image: url('../MyspaceVibes.jpg');
     background-size: cover; 
     background-repeat: no-repeat; 
-} */
-
-
-
-html{
-    background-color: rgb(137, 57, 157);
 }
+
 
 li a[href="https://github.com/W0491348"] {
     position: relative; /* Enable positioning */
     right: 30px; /* Move the <li> 20 pixels to the right */
     top: 10px; /* Move the <li> 10 pixels down */
     font-size: 20px;
-    color: black;
+    color: rgb(242, 185, 100);
 
 }
 li a[href="https://icanhas.cheezburger.com/"] {
@@ -30,7 +29,7 @@ li a[href="https://icanhas.cheezburger.com/"] {
     right: 20px; /* Move the <li> 20 pixels to the right */
     top: 10px; /* Move the <li> 10 pixels down */
     font-size: 20px;
-    color: black;
+    color: rgb(242, 185, 100);
     
 }
 
@@ -39,20 +38,23 @@ li a[href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"] {
     right: 10px; /* Move the <li> 20 pixels to the right */
     top: 10px; /* Move the <li> 10 pixels down */
     font-size: 20px;
-    color: black;
+    color: rgb(242, 185, 100);
 }
 
 main {
     
     text-align: center;
+    color: rgb(242, 185, 100);
 }
 
 header {
     text-align: center;
+    color: rgb(242, 185, 100);
 
     
 }
 
 footer {
     text-align: center;
+    color: rgb(242, 185, 100);
 }
