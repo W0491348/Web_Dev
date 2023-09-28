@@ -5,6 +5,8 @@ body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+
+
 audio{
     display: flex;
     align-items: center;
@@ -21,6 +23,7 @@ audio{
 
 #audio-text {
     font-size: 16px;
+    justify-content: center;
     color: white;
 }
 
@@ -61,6 +64,7 @@ main {
     
     text-align: center;
     color: rgb(242, 185, 100);
+    
 }
 
 header {
