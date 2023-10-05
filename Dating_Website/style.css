@@ -13,6 +13,7 @@ header {
     text-align: center;
     padding: 10px;
     margin: 10px;
+    width: 80%;
     
     
 
@@ -20,7 +21,7 @@ header {
 
 .element-class {
     border-radius: 10px;
-    border: 2px solid rgb(214, 156, 244);
+    border: 2px solid darkorchid;
     background-color: rgb(214, 156, 244);
     padding: 10px;
 }
@@ -29,10 +30,24 @@ main {
     color: black;
     text-align: center;
     border-radius: 10px;
-    border: 2px solid rgb(214, 156, 244);
+    border: 2px solid darkorchid;
     background-color: rgb(214, 156, 244);
     padding: 10px;
     margin: 10px;
-    width: 80%;
+    width: 70%;
     
+}
+
+button {
+    color: black;
+    background-color:rgb(214, 156, 244);
+    border: 2px solid darkorchid;
+    padding: 10px 25px;
+    border-radius: 10px;
+}
+
+button:hover{
+    color: black;
+    background-color: blueviolet;
+    cursor: pointer;
 }
